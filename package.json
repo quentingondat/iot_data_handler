@@ -1,0 +1,19 @@
+{
+  "name": "minotor_iot",
+  "version": "1.0.0",
+  "description": "Minotor IoT data handler from Sigfox to MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quentingondat/iot_data_handler.git"
+  },
+  "author": "Quentin Gondat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentingondat/iot_data_handler/issues"
+  },
+  "homepage": "https://github.com/quentingondat/iot_data_handler#readme"
+}
